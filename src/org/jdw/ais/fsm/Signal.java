@@ -9,8 +9,8 @@ package org.jdw.ais.fsm;
  *
  * @author JDW
  */
-public class Signals {
-    enum values {
+public class Signal {
+    enum value {
         ON,
         OFF,
         DC
